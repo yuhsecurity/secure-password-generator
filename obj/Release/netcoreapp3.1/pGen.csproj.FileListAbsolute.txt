@@ -1,0 +1,12 @@
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.AssemblyInfoInputs.cache
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.AssemblyInfo.cs
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.csproj.CoreCompileInputs.cache
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.genruntimeconfig.cache
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.exe
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.deps.json
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.runtimeconfig.json
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.runtimeconfig.dev.json
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.dll
+D:\coding\pGen\pGen\bin\Release\netcoreapp3.1\pGen.pdb
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.dll
+D:\coding\pGen\pGen\obj\Release\netcoreapp3.1\pGen.pdb
